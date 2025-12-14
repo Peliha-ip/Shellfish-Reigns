@@ -192,4 +192,20 @@ Crab claw extends block reach
 Lobster claw extends attack reach
 Combining a crab claw and a lobster claw with sticks gives the player the crustacean staff that extends both
 Perfume repels creepers, undead mobs, spiders, cave spiders, silverfish and wardens
-Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, pakiceti, sniffers, ocelots, and mantis shrimps
+Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, dolphins, pakiceti, sniffers, ocelots, and mantis shrimps
+Pakiceti show interests towards whales and dolphins
+Cold ocean ruins can have pakicetus husk in suspicious gravel
+
+Advancements:
+Brace for the Mace (Collect the crustacean staff)
+Mommy's Favorite (Eat every cooked shellfish)
+A New Look (Change an hermit crab)
+The Rave (Make crabs dance)
+Pearl Hunter (Collect a pearl)
+Andean Groove (Play any note on a charango)
+Krill Caller (Place a krill block next to a whale)
+Big Splash, Tiny Splash (Breed two whales with one krill block each)
+Primordial Potential (Dig up a pakicetus husk from suspicious gravel)
+Genesis of a Pakicetus (Smelt a pakicetus husk to obtain pakicetus DNA)
+Whaley Interesting (Obtain a pakicetus egg from the pakicetus reviver)
+When Whales & Dolphins Had Legs (Hatch a pakicetus calf)
