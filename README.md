@@ -195,7 +195,7 @@ Features:
 Perfume repels creepers, undead mobs, spiders, cave spiders, silverfish and wardens
 - Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, dolphins, pakiceti, sniffers, ocelots, and mantis shrimps
 - Pakiceti show interests towards whales and dolphins
-- Cold ocean ruins can have pakicetus husk in suspicious gravel
+- Cold ocean ruins can have pakicetus husks in suspicious gravel
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
