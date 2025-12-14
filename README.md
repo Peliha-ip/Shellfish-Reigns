@@ -211,4 +211,4 @@ Advancements:
 - Whaley Interesting (Obtain a pakicetus egg from the pakicetus reviver)
 - When Whales & Dolphins Had Legs (Hatch a pakicetus calf)
 - Watcha Back (Hit an armadillo while wielding the crustacean staff)
-- Really Funny, Hog (Place a sweet berry in an oasis)
+- Really Funny, Hog (Place a sweet berry bush in an oasis)
