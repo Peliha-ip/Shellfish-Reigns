@@ -1,28 +1,28 @@
 This mod is themed around shellfish and everything around it.
 
 Mobs:
-Crab
-Lobster
-Hermit crab
-Coconut crab
-Meerkat
-Shrimp
-Prawn
-Oyster
-Clam
-Mussel
-Scallop
-Cockle
-Limpet
-Abalone
-Sea snail
-Mantis shrimp
-Sea urchin
-Crayfish
-Barnacle
-Whale
-Pakicetus
-Octopus
+- Crab
+- Lobster
+- Hermit crab
+- Coconut crab
+- Meerkat
+- Shrimp
+- Prawn
+- Oyster
+- Clam
+- Mussel
+- Scallop
+- Cockle
+- Limpet
+- Abalone
+- Sea snail
+- Mantis shrimp
+- Sea urchin
+- Crayfish
+- Barnacle
+- Whale
+- Pakicetus
+- Octopus
 
 Food:
 Raw crab
