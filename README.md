@@ -20,7 +20,7 @@ Mobs:
 - Sea urchin
 - Crayfish
 - Barnacle
-- Whale
+- Whale (With 3 variants: bowhead in cold oceans, minke in normal oceans, and tropical whale in lukewarm and warm oceans)
 - Pakicetus
 - Octopus
 
