@@ -23,6 +23,7 @@ Mobs:
 - Whale (With 3 variants: bowhead in cold oceans, minke in normal oceans, and tropical whale in lukewarm and warm oceans)
 - Pakicetus
 - Octopus
+- Seagull
 
 Food:
 - Raw crab
@@ -180,6 +181,7 @@ Items:
 - Sea urchin spawn egg
 - Crayfish spawn egg
 - Octopus spawn egg
+- Seagull spawn egg
 
 Features:
 - Oases generate in deserts
@@ -196,6 +198,7 @@ Perfume repels creepers, undead mobs, spiders, cave spiders, silverfish and ward
 - Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, dolphins, pakiceti, sniffers, ocelots, and mantis shrimps
 - Pakiceti show interests towards whales and dolphins
 - Cold ocean ruins can have pakicetus husks in suspicious gravel
+- Seagulls would pick up some items like spider eyes or rotten flesh on beaches.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
