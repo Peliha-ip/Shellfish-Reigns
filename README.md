@@ -215,3 +215,4 @@ Advancements:
 - When Whales & Dolphins Had Legs (Hatch a pakicetus calf)
 - Watcha Back (Hit an armadillo while wielding the crustacean staff)
 - Really Funny, Hog (Place a sweet berry bush in an oasis)
+- One Gull's Trash (Give a trash item to a seagull)
