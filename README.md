@@ -182,7 +182,7 @@ Features:
 - Crab claw extends block reach
 - Lobster claw extends attack reach
 - Combining a crab claw and a lobster claw with sticks gives the player the crustacean staff that extends both
-Perfume repels creepers, undead mobs, spiders, cave spiders, silverfish and wardens
+- Perfume repels creepers, undead mobs, spiders, cave spiders, silverfish and wardens
 - Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, dolphins, pakiceti, sniffers, ocelots, and mantis shrimps
 - Pakiceti show interests towards whales and dolphins
 - Cold ocean ruins can have pakicetus husks in suspicious gravel
