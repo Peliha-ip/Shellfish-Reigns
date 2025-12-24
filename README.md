@@ -24,6 +24,7 @@ Mobs:
 - Pakicetus
 - Octopus
 - Seagull
+- Flamingo
 
 Food:
 - Raw crab
@@ -182,11 +183,13 @@ Features:
 - Crab claw extends block reach
 - Lobster claw extends attack reach
 - Combining a crab claw and a lobster claw with sticks gives the player the crustacean staff that extends both
-- Perfume repels creepers, undead mobs, spiders, cave spiders, silverfish and wardens
-- Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, dolphins, pakiceti, sniffers, ocelots, and mantis shrimps
+- Perfume repels creepers, undead mobs, spiders, cave spiders, and silverfish
+- Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, dolphins, pakiceti, sniffers, ocelots,seagulls, flamingos, and mantis shrimps
+- Perfume is forbidden in the deep dark and ancient cities as they're an immediate trigger to the warden
 - Pakiceti show interests towards whales and dolphins
 - Cold ocean ruins can have pakicetus husks in suspicious gravel
-- Seagulls would pick up some items like spider eyes or rotten flesh on beaches.
+- Seagulls would pick up some items like spider eyes or rotten flesh on beaches
+- Flamingos can be dyed since they're white by default and turn pink when eating shrimp.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
@@ -204,3 +207,5 @@ Advancements:
 - Watcha Back (Hit an armadillo while wielding the crustacean staff)
 - Really Funny, Hog (Place a sweet berry bush in an oasis)
 - One Gull's Trash (Give a trash item to a seagull)
+- From White to Pink (Feed a baby flamingo shrimp)
+- Colored Feathers (Dye a flamingo with any dye)
