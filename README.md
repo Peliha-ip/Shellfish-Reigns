@@ -171,6 +171,7 @@ Items:
 - Crayfish spawn egg
 - Octopus spawn egg
 - Seagull spawn egg
+- Flamingo spawn egg
 
 Features:
 - Oases generate in deserts
