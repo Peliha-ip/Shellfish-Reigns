@@ -25,6 +25,7 @@ Mobs:
 - Octopus
 - Seagull
 - Flamingo
+- Tropical Slime
 
 Food:
 - Raw crab
@@ -172,6 +173,7 @@ Items:
 - Octopus spawn egg
 - Seagull spawn egg
 - Flamingo spawn egg
+- Tropical Slime Spawn Egg
 
 Features:
 - Oases generate in deserts
@@ -191,6 +193,7 @@ Features:
 - Cold ocean ruins can have pakicetus husks in suspicious gravel
 - Seagulls would pick up some items like spider eyes or rotten flesh on beaches
 - Flamingos can be dyed since they're white by default and turn pink when eating shrimp.
+- Tropical slimes hang out in warm and lukewarm oceans and attack anything in the water. They get bigger the more they eat.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
