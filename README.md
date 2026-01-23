@@ -25,8 +25,8 @@ Mobs:
 - Octopus
 - Seagull
 - Flamingo
-- Tropical Slime
-- Harbor Seal
+- Tropical slime
+- Harbor seal
 
 Food:
 - Raw crab
