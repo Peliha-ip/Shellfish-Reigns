@@ -94,6 +94,7 @@ Blocks:
 - Palm shelf
 - Cut pearl block
 - Ambergris
+- Tropical slime block
 
 Items:
 - Palm boat with chest
@@ -176,6 +177,7 @@ Items:
 - Flamingo spawn egg
 - Tropical Slime Spawn Egg
 - Harbor Seal Spawn Egg
+- Tropical slimeball
 
 Features:
 - Oases generate in deserts
@@ -189,13 +191,14 @@ Features:
 - Lobster claw extends attack reach
 - Combining a crab claw and a lobster claw with sticks gives the player the crustacean staff that extends both
 - Perfume repels creepers, undead mobs, spiders, cave spiders, and silverfish
-- Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, dolphins, pakiceti, sniffers, ocelots,seagulls, flamingos, and mantis shrimps
+- Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, dolphins, pakiceti, sniffers, ocelots,seagulls, flamingos, harbor seals, and mantis shrimps
 - Perfume is forbidden in the deep dark and ancient cities as they're an immediate trigger to the warden
 - Pakiceti show interests towards whales and dolphins
 - Cold ocean ruins can have pakicetus husks in suspicious gravel
 - Seagulls would pick up some items like spider eyes or rotten flesh on beaches
 - Flamingos can be dyed since they're white by default and turn pink when eating shrimp.
 - Tropical slimes hang out in warm and lukewarm oceans and attack anything in the water. They get bigger the more they eat.
+- Tropical slime blocks are technically water blocks with a biofilm. This means aquatic mobs and can live in tropical slime blocks and they can be used for negating fall damage without bouncing uncontrollably. Tropical slime blocks also keep corals alive.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
