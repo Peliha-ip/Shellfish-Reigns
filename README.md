@@ -26,6 +26,7 @@ Mobs:
 - Seagull
 - Flamingo
 - Tropical Slime
+- Seal
 
 Food:
 - Raw crab
@@ -174,6 +175,7 @@ Items:
 - Seagull spawn egg
 - Flamingo spawn egg
 - Tropical Slime Spawn Egg
+- Seal Spawn Egg
 
 Features:
 - Oases generate in deserts
