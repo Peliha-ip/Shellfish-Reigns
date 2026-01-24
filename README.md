@@ -68,6 +68,8 @@ Food:
 - Cooked coconut meat
 - Coconut water
 - Coconut milk
+- Raw Seal
+- Cooked Seal
 
 Blocks:
 - Krill block
