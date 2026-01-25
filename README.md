@@ -27,6 +27,7 @@ Mobs:
 - Flamingo
 - Tropical slime
 - Harbor seal
+- Jellyfish
 
 Food:
 - Raw crab
@@ -179,6 +180,7 @@ Items:
 - Flamingo spawn egg
 - Tropical Slime Spawn Egg
 - Harbor Seal Spawn Egg
+- Jellyfish Spawn Egg
 - Tropical slimeball
 
 Features:
@@ -201,6 +203,7 @@ Features:
 - Flamingos can be dyed since they're white by default and turn pink when eating shrimp.
 - Tropical slimes hang out in warm and lukewarm oceans and attack anything in the water. They get bigger the more they eat.
 - Tropical slime blocks are technically water blocks with a biofilm. This means aquatic mobs and can live in tropical slime blocks and they can be used for negating fall damage without bouncing uncontrollably. Tropical slime blocks also keep corals alive.
+- Touching a jellyfish will give the player poison for 30 seconds.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
