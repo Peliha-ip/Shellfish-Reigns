@@ -209,6 +209,7 @@ Features:
 - Touching a jellyfish will give the player poison for 30 seconds.
 - Seals attack any fish or shellfish mobs.
 - Sharks attack seals and turtles. They can attack players, but cues will show that it was an accidental attack (as sharks actually attack people because of misindentificatiom and let go when they realize their mistake).
+- Every 5-10 minutes, sharks would drop a shark tooth.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
