@@ -198,7 +198,7 @@ Features:
 - Lobster claw extends attack reach
 - Combining a crab claw and a lobster claw with sticks gives the player the crustacean staff that extends both
 - Perfume repels creepers, undead mobs, spiders, cave spiders, and silverfish
-- Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, dolphins, pakiceti, sniffers, ocelots,seagulls, flamingos, harbor seals, and mantis shrimps
+- Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautili, meerkats, whales, dolphins, pakiceti, sniffers, ocelots, seagulls, flamingos, harbor seals, and mantis shrimps
 - Perfume is forbidden in the deep dark and ancient cities as they're an immediate trigger to the warden
 - Pakiceti show interests towards whales and dolphins
 - Cold ocean ruins can have pakicetus husks in suspicious gravel
@@ -210,6 +210,7 @@ Features:
 - Seals attack any fish or shellfish mobs.
 - Sharks attack seals and turtles. They can attack players, but cues will show that it was an accidental attack (as sharks actually attack people because of misindentificatiom and let go when they realize their mistake).
 - Every 5-10 minutes, sharks would drop a shark tooth.
+- A whale that dies on the shore would create a violent explosion 5 minutes after death, however, the player has a 5 minutes countdown to shear the whale carcass before it explodes.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
