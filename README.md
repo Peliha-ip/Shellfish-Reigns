@@ -28,6 +28,7 @@ Mobs:
 - Tropical slime
 - Harbor seal
 - Jellyfish
+- Shark
 
 Food:
 - Raw crab
@@ -154,6 +155,8 @@ Items:
 - Cherry charango
 - Pale oak charango
 - Palm charango
+- Tropical slimeball
+- Shark tooth
 - Crab spawn egg
 - Lobster spawn egg
 - Shrimp spawn egg
@@ -181,7 +184,7 @@ Items:
 - Tropical Slime Spawn Egg
 - Harbor Seal Spawn Egg
 - Jellyfish Spawn Egg
-- Tropical slimeball
+- Shark Spawn Egg
 
 Features:
 - Oases generate in deserts
@@ -204,6 +207,8 @@ Features:
 - Tropical slimes hang out in warm and lukewarm oceans and attack anything in the water. They get bigger the more they eat.
 - Tropical slime blocks are technically water blocks with a biofilm. This means aquatic mobs and can live in tropical slime blocks and they can be used for negating fall damage without bouncing uncontrollably. Tropical slime blocks also keep corals alive.
 - Touching a jellyfish will give the player poison for 30 seconds.
+- Seals attack any fish or shellfish mobs.
+- Sharks attack seals and turtles. They can attack players, but cues will show that it was an accidental attack (as sharks actually attack people because of misindentificatiom and let go when they realize their mistake).
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
