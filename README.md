@@ -71,8 +71,8 @@ Food:
 - Cooked coconut meat
 - Coconut water
 - Coconut milk
-- Raw Seal
-- Cooked Seal
+- Raw seal
+- Cooked seal
 
 Blocks:
 - Krill block
@@ -182,11 +182,11 @@ Items:
 - Octopus spawn egg
 - Seagull spawn egg
 - Flamingo spawn egg
-- Tropical Slime Spawn Egg
-- Harbor Seal Spawn Egg
-- Jellyfish Spawn Egg
-- Shark Spawn Egg
-- Starfish Spawn Egg
+- Tropical slime spawn egg
+- Harbor seal spawn egg
+- Jellyfish spawn egg
+- Shark spawn egg
+- Starfish spawn egg
 
 Features:
 - Oases generate in deserts
