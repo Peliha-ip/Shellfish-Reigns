@@ -29,6 +29,7 @@ Mobs:
 - Harbor seal
 - Jellyfish
 - Shark
+- Starfish
 
 Food:
 - Raw crab
@@ -185,6 +186,7 @@ Items:
 - Harbor Seal Spawn Egg
 - Jellyfish Spawn Egg
 - Shark Spawn Egg
+- Starfish Spawn Egg
 
 Features:
 - Oases generate in deserts
