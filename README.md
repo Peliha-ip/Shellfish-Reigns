@@ -30,6 +30,7 @@ Mobs:
 - Jellyfish
 - Shark
 - Starfish
+- Driftfish
 
 Food:
 - Raw crab
@@ -73,6 +74,8 @@ Food:
 - Coconut milk
 - Raw seal
 - Cooked seal
+- Raw driftfish
+- Cooked driftfish
 
 Blocks:
 - Krill block
@@ -158,6 +161,7 @@ Items:
 - Palm charango
 - Tropical slimeball
 - Shark tooth
+- Bucket of driftfish
 - Crab spawn egg
 - Lobster spawn egg
 - Shrimp spawn egg
@@ -187,6 +191,7 @@ Items:
 - Jellyfish spawn egg
 - Shark spawn egg
 - Starfish spawn egg
+- Driftfish spawn egg
 
 Features:
 - Oases generate in deserts
@@ -232,3 +237,5 @@ Advancements:
 - One Gull's Trash (Give a trash item to a seagull)
 - From White to Pink (Feed a baby flamingo shrimp)
 - Colored Feathers (Dye a flamingo with any dye)
+- Might Have Seen This Before (Catch a driftfish with a bucket)
+- Legacy fish (Catch a driftfish with a fishing rod)
