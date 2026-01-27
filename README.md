@@ -31,6 +31,8 @@ Mobs:
 - Shark
 - Starfish
 - Driftfish
+- Ammonite
+- Trilobite
 
 Food:
 - Raw crab
@@ -103,6 +105,7 @@ Blocks:
 - Cut pearl block
 - Ambergris
 - Tropical slime block
+- Extinct shellfish reviver
 
 Items:
 - Palm boat with chest
@@ -162,6 +165,9 @@ Items:
 - Tropical slimeball
 - Shark tooth
 - Bucket of driftfish
+- Extinct shellfish husk
+- Extinct shellfish egg
+- Extinct shellfish DNA
 - Crab spawn egg
 - Lobster spawn egg
 - Shrimp spawn egg
@@ -192,6 +198,8 @@ Items:
 - Shark spawn egg
 - Starfish spawn egg
 - Driftfish spawn egg
+- Trilobite spawn egg
+- Ammonite spawn egg
 
 Features:
 - Oases generate in deserts
