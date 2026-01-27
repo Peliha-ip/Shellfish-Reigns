@@ -50,6 +50,7 @@ Mobs:
 - Helicoprion
 - Mosasaur
 - Horseshoe crab
+- Cuttlefish
 
 Food:
 - Raw crab
@@ -101,6 +102,8 @@ Food:
 - Cooked tilapia
 - Raw gar
 - Cooked gar
+- Raw cuttlefish
+- Boiled cuttlefish
 
 Blocks:
 - Krill block
@@ -256,6 +259,7 @@ Items:
 - Wiwaxia spawn egg
 - Tamiscolaris spawn egg
 - Gar spawn egg
+- Cuttlefish spawn egg
 
 Features:
 - Oases generate in deserts
