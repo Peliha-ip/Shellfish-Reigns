@@ -55,6 +55,7 @@ Mobs:
 - Dugong
 - Albatross
 - Porpoise
+- Otter
 
 Food:
 - Raw crab
@@ -268,6 +269,7 @@ Items:
 - Dugong spawn egg
 - Albatross spawn egg
 - Porpoise spawn egg
+- Otter spawn egg
 
 Features:
 - Oases generate in deserts
