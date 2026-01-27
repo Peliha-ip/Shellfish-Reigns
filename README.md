@@ -33,6 +33,23 @@ Mobs:
 - Driftfish
 - Ammonite
 - Trilobite
+- Anomilacaris
+- Hallucigenia
+- Opabinia
+- Wiwaxia
+- Tamiscolaris
+- Sea scorpion
+- Dickinsonia
+- Tuna
+- Tilapia
+- Swordfish
+- Ceolacanth
+- Gar
+- Ichthyosaur
+- Dunkleosteus
+- Helicoprion
+- Mosasaur
+- Horseshoe crab
 
 Food:
 - Raw crab
@@ -78,6 +95,12 @@ Food:
 - Cooked seal
 - Raw driftfish
 - Cooked driftfish
+- Raw tuna
+- Cooked tuna
+- Raw tilapia
+- Cooked tilapia
+- Raw gar
+- Cooked gar
 
 Blocks:
 - Krill block
@@ -106,6 +129,10 @@ Blocks:
 - Ambergris
 - Tropical slime block
 - Extinct shellfish reviver
+- Ichthyosaur reviver
+- Dunkleosteus reviver
+- Mosasaur reviver
+- Helicoprion reviver
 
 Items:
 - Palm boat with chest
@@ -168,6 +195,18 @@ Items:
 - Extinct shellfish husk
 - Extinct shellfish egg
 - Extinct shellfish DNA
+- Mosasaur egg
+- Ichthyosaur egg
+- Dunkleosteus egg
+- Helicoprion egg
+- Mosasaur husk
+- Mosasaur DNA
+- Ichthyosaur husk
+- Ichthyosaur DNA
+- Dunkleosteus husk
+- Dunkleosteus DNA
+- Helicoprion husk
+- Helicoprion DNA
 - Crab spawn egg
 - Lobster spawn egg
 - Shrimp spawn egg
@@ -195,11 +234,28 @@ Items:
 - Tropical slime spawn egg
 - Harbor seal spawn egg
 - Jellyfish spawn egg
-- Shark spawn egg
+- Great white shark spawn egg
 - Starfish spawn egg
 - Driftfish spawn egg
 - Trilobite spawn egg
 - Ammonite spawn egg
+- Ichthyosaur spawn egg
+- Tilapia spawn egg
+- Ceolacanth spawn egg
+- Tuna spawn egg
+- Mosasaur spawn egg
+- Helicoprion spawn egg
+- Horseshoe crab spawn egg
+- Swordfish spawn egg
+- Anomilacaris spawn egg
+- Opabinia spawn egg
+- Sea scorpion spawn egg
+- Dickinsonia spawn egg
+- Dunkleosteus spawn egg
+- Hallucigenia spawn egg
+- Wiwaxia spawn egg
+- Tamiscolaris spawn egg
+- Gar spawn egg
 
 Features:
 - Oases generate in deserts
@@ -223,8 +279,8 @@ Features:
 - Tropical slime blocks are technically water blocks with a biofilm. This means aquatic mobs and can live in tropical slime blocks and they can be used for negating fall damage without bouncing uncontrollably. Tropical slime blocks also keep corals alive.
 - Touching a jellyfish will give the player poison for 30 seconds.
 - Seals attack any fish or shellfish mobs.
-- Sharks attack seals and turtles. They can attack players, but cues will show that it was an accidental attack (as sharks actually attack people because of misindentificatiom and let go when they realize their mistake).
-- Every 5-10 minutes, sharks would drop a shark tooth.
+- Great white sharks attack seals and turtles. They can attack players, but cues will show that it was an accidental attack (as sharks actually attack people because of misindentificatiom and let go when they realize their mistake).
+- Every 5-10 minutes, great white sharks would drop a shark tooth.
 - A whale that dies on the shore would create a violent explosion 5 minutes after death, however, the player has a 5 minutes countdown to shear the whale carcass before it explodes.
 
 Advancements:
