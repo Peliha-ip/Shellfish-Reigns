@@ -28,7 +28,7 @@ Mobs:
 - Tropical slime
 - Harbor seal
 - Jellyfish
-- Shark
+- Great white shark
 - Starfish
 - Driftfish
 - Ammonite
