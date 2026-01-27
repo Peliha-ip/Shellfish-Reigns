@@ -53,6 +53,7 @@ Mobs:
 - Cuttlefish
 - Manatee
 - Dugong
+- Albatross
 
 Food:
 - Raw crab
@@ -264,6 +265,7 @@ Items:
 - Cuttlefish spawn egg
 - Manatee spawn egg
 - Dugong spawn egg
+- Albatross spawn egg
 
 Features:
 - Oases generate in deserts
