@@ -56,6 +56,7 @@ Mobs:
 - Albatross
 - Porpoise
 - Otter
+- Pelican
 
 Food:
 - Raw crab
@@ -270,6 +271,7 @@ Items:
 - Albatross spawn egg
 - Porpoise spawn egg
 - Otter spawn egg
+- Pelican spawn egg
 
 Features:
 - Oases generate in deserts
