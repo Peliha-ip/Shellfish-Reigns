@@ -114,7 +114,7 @@ Food:
 Blocks:
 - Krill block
 - Pearl block
-- Pakicetus Reviver
+- Pakicetus reviver
 - Coconut husk block
 - Palm leaves
 - Palm log
