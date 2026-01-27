@@ -51,6 +51,8 @@ Mobs:
 - Mosasaur
 - Horseshoe crab
 - Cuttlefish
+- Manatee
+- Dugong
 
 Food:
 - Raw crab
@@ -260,6 +262,8 @@ Items:
 - Tamiscolaris spawn egg
 - Gar spawn egg
 - Cuttlefish spawn egg
+- Manatee spawn egg
+- Dugong spawn egg
 
 Features:
 - Oases generate in deserts
