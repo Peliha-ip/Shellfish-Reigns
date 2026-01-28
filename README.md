@@ -295,6 +295,7 @@ Features:
 - Every 5-10 minutes, great white sharks would drop a shark tooth.
 - A whale that dies on the shore would create a violent explosion 5 minutes after death, however, the player has a 5 minutes countdown to shear the whale carcass before it explodes.
 - Every 5-10 minutes, parrotfish would drop sand.
+- It's now possible to dye sand with a red dye to get red sand.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
