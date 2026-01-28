@@ -144,6 +144,7 @@ Blocks:
 - Dunkleosteus reviver
 - Mosasaur reviver
 - Helicoprion reviver
+- Steel pan
 
 Items:
 - Palm boat with chest
