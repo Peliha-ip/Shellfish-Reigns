@@ -160,6 +160,9 @@ Blocks:
 - Lagoon coral
 - Lagoon coral fan
 - Lagoon coral block
+- Bleached coral
+- Bleached coral fan
+- Bleached coral block
 
 Items:
 - Palm boat with chest
