@@ -57,6 +57,8 @@ Mobs:
 - Porpoise
 - Otter
 - Pelican
+- Giant squid
+- Sperm whale
 
 Food:
 - Raw crab
@@ -259,6 +261,8 @@ Items:
 - Porpoise spawn egg
 - Otter spawn egg
 - Pelican spawn egg
+- Giant squid spawn egg
+- Sperm whale spawn egg
 
 Features:
 - Oases generate in deserts
