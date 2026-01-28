@@ -190,10 +190,11 @@ Items:
 - Lobster banner pattern
 - Clam armor trim
 - Clam banner pattern
-- Shrimp banner pattern
+- Shrimp banner pattern 
 - Prawn banner pattern
 - Crayfish banner pattern
 - Oyster banner pattern
+- Oyster armor trim
 - Mussel banner pattern
 - Scallop banner pattern
 - Cockle banner pattern
@@ -334,3 +335,4 @@ Advancements:
 - Colored Feathers (Dye a flamingo with any dye)
 - Might Have Seen This Before (Catch a driftfish with a bucket)
 - Legacy fish (Catch a driftfish with a fishing rod)
+- That Was Close (Shear a whale carcass before it explodes)
