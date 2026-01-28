@@ -148,6 +148,18 @@ Blocks:
 - Mosasaur reviver
 - Helicoprion reviver
 - Steel pan
+- Verdant coral
+- Verdant coral fan
+- Verdant coral block
+- Tangerine coral
+- Tangerine coral fan
+- Tangerine coral block
+- Azure coral
+- Azure coral fan
+- Azure coral block
+- Lagoon coral
+- Lagoon coral fan
+- Lagoon coral block
 
 Items:
 - Palm boat with chest
