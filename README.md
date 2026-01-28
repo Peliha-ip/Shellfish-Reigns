@@ -59,6 +59,7 @@ Mobs:
 - Pelican
 - Giant squid
 - Sperm whale
+- Parrotfish
 
 Food:
 - Raw crab
@@ -112,6 +113,8 @@ Food:
 - Cooked gar
 - Raw cuttlefish
 - Boiled cuttlefish
+- Raw parrotfish
+- Cooked parrotfish
 
 Blocks:
 - Krill block
@@ -264,6 +267,7 @@ Items:
 - Pelican spawn egg
 - Giant squid spawn egg
 - Sperm whale spawn egg
+- Parrotfish spawn egg
 
 Features:
 - Oases generate in deserts
@@ -290,6 +294,7 @@ Features:
 - Great white sharks attack seals and turtles. They can attack players, but cues will show that it was an accidental attack (as sharks actually attack people because of misindentificatiom and let go when they realize their mistake).
 - Every 5-10 minutes, great white sharks would drop a shark tooth.
 - A whale that dies on the shore would create a violent explosion 5 minutes after death, however, the player has a 5 minutes countdown to shear the whale carcass before it explodes.
+- Every 5-10 minutes, parrotfish would drop sand.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
