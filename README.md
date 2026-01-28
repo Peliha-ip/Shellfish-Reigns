@@ -292,7 +292,6 @@ Advancements:
 - A New Look (Change an hermit crab)
 - The Rave (Make crabs dance)
 - Pearl Hunter (Collect a pearl)
-- Andean Groove (Play any note on a charango)
 - Krill Caller (Place a krill block next to a whale)
 - Big Splash, Tiny Splash (Breed two whales with one krill block each)
 - Primordial Potential (Dig up a pakicetus husk from suspicious gravel)
