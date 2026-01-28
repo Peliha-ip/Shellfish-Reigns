@@ -60,6 +60,7 @@ Mobs:
 - Giant squid
 - Sperm whale
 - Parrotfish
+- Piranha
 
 Food:
 - Raw crab
@@ -283,6 +284,7 @@ Items:
 - Giant squid spawn egg
 - Sperm whale spawn egg
 - Parrotfish spawn egg
+- Piranha spawn egg
 
 Features:
 - Oases generate in deserts
@@ -311,6 +313,7 @@ Features:
 - A whale that dies on the shore would create a violent explosion 5 minutes after death, however, the player has a 5 minutes countdown to shear the whale carcass before it explodes.
 - Every 5-10 minutes, parrotfish would drop sand.
 - It's now possible to dye sand with a red dye to get red sand.
+- Piranhas aren't the murder fish we see in media, that's because they're either herbivores or scavengers. That's why you breed them with kelp and they target undead mobs. At worst, the piranha might nib the player if they stay still for too long.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
