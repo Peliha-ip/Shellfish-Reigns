@@ -63,6 +63,7 @@ Mobs:
 - Piranha
 - Tripod fish
 - Anemone
+- Nudibranch
 
 Food:
 - Raw crab
@@ -290,6 +291,7 @@ Items:
 - Piranha spawn egg
 - Tripod fish spawn egg
 - Anemone spawn egg
+- Nudibranch spawn egg
 
 Features:
 - Oases generate in deserts
