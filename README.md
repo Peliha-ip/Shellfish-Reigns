@@ -61,6 +61,10 @@ Mobs:
 - Sperm whale
 - Parrotfish
 - Piranha
+- Viperfish
+- Tripod fish
+- Fangtooth
+- Anemone
 
 Food:
 - Raw crab
@@ -286,6 +290,10 @@ Items:
 - Sperm whale spawn egg
 - Parrotfish spawn egg
 - Piranha spawn egg
+- Tripod fish spawn egg
+- Viperfish spawn egg
+- Fangtooth spawn egg
+- Anemone spawn egg
 
 Features:
 - Oases generate in deserts
