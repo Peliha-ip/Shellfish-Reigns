@@ -64,6 +64,7 @@ Mobs:
 - Tripod fish
 - Anemone
 - Nudibranch
+- Seahorse
 
 Food:
 - Raw crab
@@ -292,6 +293,7 @@ Items:
 - Tripod fish spawn egg
 - Anemone spawn egg
 - Nudibranch spawn egg
+- Seahorse spawn egg
 
 Features:
 - Oases generate in deserts
