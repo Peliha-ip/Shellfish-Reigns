@@ -309,7 +309,7 @@ Features:
 - Tropical slime blocks are technically water blocks with a biofilm. This means aquatic mobs and can live in tropical slime blocks and they can be used for negating fall damage without bouncing uncontrollably. Tropical slime blocks also keep corals alive.
 - Touching a jellyfish will give the player poison for 30 seconds.
 - Seals attack any fish or shellfish mobs.
-- Great white sharks attack seals and turtles. They can attack players, but cues will show that it was an accidental attack (as sharks actually attack people because of misindentificatiom and let go when they realize their mistake).
+- Great white sharks attack seals and turtles. They can attack players, but cues will show that it was an accidental attack (as sharks actually attack people because of misindentification and let go when they realize their mistake).
 - Every 5-10 minutes, great white sharks would drop a shark tooth.
 - A whale that dies on the shore would create a violent explosion 5 minutes after death, however, the player has a 5 minutes countdown to shear the whale carcass before it explodes.
 - Every 5-10 minutes, parrotfish would drop sand.
