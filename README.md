@@ -61,9 +61,7 @@ Mobs:
 - Sperm whale
 - Parrotfish
 - Piranha
-- Viperfish
 - Tripod fish
-- Fangtooth
 - Anemone
 
 Food:
@@ -291,8 +289,6 @@ Items:
 - Parrotfish spawn egg
 - Piranha spawn egg
 - Tripod fish spawn egg
-- Viperfish spawn egg
-- Fangtooth spawn egg
 - Anemone spawn egg
 
 Features:
