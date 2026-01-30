@@ -65,6 +65,7 @@ Mobs:
 - Anemone
 - Nudibranch
 - Seahorse
+- Stingray
 
 Food:
 - Raw crab
@@ -294,6 +295,7 @@ Items:
 - Anemone spawn egg
 - Nudibranch spawn egg
 - Seahorse spawn egg
+- Stingray spawn egg
 
 Features:
 - Oases generate in deserts
