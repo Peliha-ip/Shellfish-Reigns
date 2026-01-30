@@ -166,9 +166,45 @@ Blocks:
 - Lagoon coral
 - Lagoon coral fan
 - Lagoon coral block
-- Bleached coral
-- Bleached coral fan
-- Bleached coral block
+- Bleached verdant coral
+- Bleached verdant coral fan
+- Bleached verdant coral block
+- Bleached tube coral
+- Bleached tube coral fan
+- Bleached tube coral block
+- Bleached tangerine coral
+- Bleached tangerine coral fan
+- Bleached tangerine coral block
+- Bleached fire coral
+- Bleached fire coral fan
+- Bleached fire coral block
+- Bleached brain coral
+- Bleached brain coral fan
+- Bleached brain coral block
+- Bleached bubble coral
+- Bleached bubble coral fan
+- Bleached bubble coral block
+- Bleached horn coral
+- Bleached horn coral fan
+- Bleached horn coral block
+- Bleached azure coral
+- Bleached azure coral fan
+- Bleached azure coral block
+- Bleached lagoon coral
+- Bleached lagoon coral fan
+- Bleached lagoon coral block
+- Dead verdant coral
+- Dead verdant coral fan
+- Dead verdant coral block
+- Dead tangerine coral
+- Dead tangerine coral fan
+- Dead tangerine coral block
+- Dead azure coral
+- Dead azure coral fan
+- Dead azure coral block
+- Dead lagoon coral
+- Dead lagoon coral fan
+- Dead lagoon coral block
 
 Items:
 - Palm boat with chest
