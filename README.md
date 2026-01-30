@@ -67,6 +67,7 @@ Mobs:
 - Seahorse
 - Stingray
 - Sea cucumber
+- Platypus
 
 Food:
 - Raw crab
@@ -206,6 +207,8 @@ Blocks:
 - Dead lagoon coral
 - Dead lagoon coral fan
 - Dead lagoon coral block
+- Platypus egg
+- Shellfish egg
 
 Items:
 - Palm boat with chest
@@ -334,6 +337,7 @@ Items:
 - Seahorse spawn egg
 - Stingray spawn egg
 - Sea cucumber spawn egg
+- Platypus spawn egg
 
 Features:
 - Oases generate in deserts
