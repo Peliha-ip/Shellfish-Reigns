@@ -66,6 +66,7 @@ Mobs:
 - Nudibranch
 - Seahorse
 - Stingray
+- Sea cucumber
 
 Food:
 - Raw crab
@@ -332,6 +333,7 @@ Items:
 - Nudibranch spawn egg
 - Seahorse spawn egg
 - Stingray spawn egg
+- Sea cucumber spawn egg
 
 Features:
 - Oases generate in deserts
