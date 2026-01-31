@@ -349,6 +349,7 @@ Items:
 
 Structures:
 - Rig
+- Oasis
 
 Features:
 - Oases generate in deserts
