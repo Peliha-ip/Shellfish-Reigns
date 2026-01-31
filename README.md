@@ -69,6 +69,7 @@ Mobs:
 - Sea cucumber
 - Platypus
 - Soaker
+- Stone fish
 
 Food:
 - Raw crab
@@ -346,10 +347,14 @@ Items:
 - Sea cucumber spawn egg
 - Platypus spawn egg
 - Soaker spawn egg
+- Stone fish spawn egg
 
 Structures:
 - Rig
 - Oasis
+- Fountain
+- Spa
+- Sand castle
 
 Features:
 - Oases generate in deserts
