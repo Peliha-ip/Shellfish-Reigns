@@ -132,7 +132,7 @@ Blocks:
 - Palm fronds
 - Palm log
 - Palm planks
-- Coconut sapling
+- Palm tree sapling
 - Stripped palm log
 - Stripped palm wood
 - Palm wood
