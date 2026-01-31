@@ -115,6 +115,7 @@ Food:
 - Cooked driftfish
 - Raw tuna
 - Cooked tuna
+- Mashed tuna
 - Raw tilapia
 - Cooked tilapia
 - Raw gar
