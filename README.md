@@ -208,7 +208,16 @@ Blocks:
 - Dead lagoon coral fan
 - Dead lagoon coral block
 - Platypus egg
-- Shellfish egg
+- Crab egg
+- Pakicetus egg
+- Extinct shellfish egg
+- Dunkleosteus egg
+- Mosasaur egg
+- Lobster egg
+- Helicoprion egg
+- Ichthyosaur egg
+- Hermit crab egg
+- Coconut crab egg
 
 Items:
 - Palm boat with chest
@@ -251,18 +260,12 @@ Items:
 - Coconut banner pattern
 - Pakicetus husk
 - Pakicetus DNA
-- Pakicetus egg
 - Perfume
 - Tropical slimeball
 - Shark tooth
 - Bucket of driftfish
 - Extinct shellfish husk
-- Extinct shellfish egg
 - Extinct shellfish DNA
-- Mosasaur egg
-- Ichthyosaur egg
-- Dunkleosteus egg
-- Helicoprion egg
 - Mosasaur husk
 - Mosasaur DNA
 - Ichthyosaur husk
