@@ -129,7 +129,7 @@ Blocks:
 - Pearl block
 - Pakicetus reviver
 - Coconut husk block
-- Palm leaves
+- Palm fronds
 - Palm log
 - Palm planks
 - Coconut sapling
