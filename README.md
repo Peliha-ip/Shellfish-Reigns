@@ -343,6 +343,9 @@ Items:
 - Sea cucumber spawn egg
 - Platypus spawn egg
 
+Structures:
+- Rig
+
 Features:
 - Oases generate in deserts
 - Flowing water next to a pearl block and above sand generates krill blocks
