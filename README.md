@@ -355,6 +355,7 @@ Structures:
 - Fountain
 - Spa
 - Sand castle
+- Wishing well
 
 Features:
 - Oases generate in deserts
@@ -387,6 +388,7 @@ Features:
 - Coconut crabs can occasionally spawn as a jockey where a bogged can ride it.
 - Soakers are found in the rig, fountain, and spa structures.
 - Water charges are like water balloons. They're not just useful for combat, but also to mitigate fall damage by placing a water source where you aimed.
+- Throwing a copper ingot in a wishing well could give the player some interesting items.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
