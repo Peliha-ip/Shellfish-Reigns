@@ -276,6 +276,8 @@ Items:
 - Dunkleosteus DNA
 - Helicoprion husk
 - Helicoprion DNA
+- Soaker rods
+- Water charge
 - Crab spawn egg
 - Lobster spawn egg
 - Shrimp spawn egg
@@ -377,6 +379,7 @@ Features:
 - It's now possible to dye sand with a red dye to get red sand.
 - Piranhas aren't the murder fish we see in media, that's because they're either herbivores or scavengers. That's why you breed them with kelp and they target undead mobs. At worst, the piranha might nib the player if they stay still for too long.
 - Coconut crabs can occasionally spawn as a jockey where a bogged can ride it.
+- Water charges are like water balloons. They're not just useful for combat, but also to mitigate fall damage by placing a water source where you aimed.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
