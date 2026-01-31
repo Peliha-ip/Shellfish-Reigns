@@ -68,6 +68,7 @@ Mobs:
 - Stingray
 - Sea cucumber
 - Platypus
+- Soaker
 
 Food:
 - Raw crab
@@ -342,6 +343,7 @@ Items:
 - Stingray spawn egg
 - Sea cucumber spawn egg
 - Platypus spawn egg
+- Soaker spawn egg
 
 Structures:
 - Rig
