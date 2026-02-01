@@ -126,6 +126,8 @@ Food:
 - Boiled cuttlefish
 - Raw parrotfish
 - Cooked parrotfish
+- Raw sea cucumber
+- Boiled sea cucumber
 
 Blocks:
 - Krill block
