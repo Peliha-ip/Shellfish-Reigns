@@ -280,6 +280,7 @@ Items:
 - Helicoprion DNA
 - Soaker rods
 - Water charge
+- Coating book
 - Crab spawn egg
 - Lobster spawn egg
 - Shrimp spawn egg
@@ -358,6 +359,9 @@ Structures:
 - Sand castle
 - Wishing well
 
+Enchantment:
+- Spine coating
+
 Features:
 - Oases generate in deserts
 - Flowing water next to a pearl block and above sand generates krill blocks
@@ -387,9 +391,11 @@ Features:
 - It's now possible to dye sand with a red dye to get red sand.
 - Piranhas aren't the murder fish we see in media, that's because they're either herbivores or scavengers. That's why you breed them with kelp and they target undead mobs. At worst, the piranha might nib the player if they stay still for too long.
 - Coconut crabs can occasionally spawn as a jockey where a bogged can ride it.
-- Soakers are found in the rig, fountain, and spa structures.
+- Soakers are found in the rig and spa structures.
 - Water charges are like water balloons. They're not just useful for combat, but also to mitigate fall damage by placing a water source where you aimed.
 - Throwing a copper ingot in a wishing well could give the player some interesting items.
+- The pearl lamp is the only block where the light level can be decided by the player.
+- Pearls can also be used to coat the player's boots to protect themselves from stepping on sea urchins and especially the stone fish. Because it's possible for the stone fish to bypass armor, except if the boots are coated.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
