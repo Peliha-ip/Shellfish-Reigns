@@ -278,7 +278,7 @@ Items:
 - Dunkleosteus DNA
 - Helicoprion husk
 - Helicoprion DNA
-- Soaker rods
+- Soaker rod
 - Water charge
 - Coating book
 - Crab spawn egg
