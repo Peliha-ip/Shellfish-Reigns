@@ -221,6 +221,7 @@ Blocks:
 - Ichthyosaur egg
 - Hermit crab egg
 - Coconut crab egg
+- Pearl lamp
 
 Items:
 - Palm boat with chest
