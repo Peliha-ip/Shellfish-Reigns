@@ -132,6 +132,7 @@ Food:
 - Boiled sea cucumber
 - Raw eel
 - Cooked eel
+- Coconut
 
 Blocks:
 - Krill block
