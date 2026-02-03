@@ -428,3 +428,4 @@ Advancements:
 - Might Have Seen This Before (Catch a driftfish with a bucket)
 - Legacy fish (Catch a driftfish with a fishing rod)
 - That Was Close (Shear a whale carcass before it explodes)
+- Shellfish Allergy (Eat every raw shellfish)
