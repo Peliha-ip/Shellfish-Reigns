@@ -15,7 +15,7 @@ Mobs:
 - Cockle
 - Limpet
 - Abalone
-- Sea snail
+- Snail (land and sea variants)
 - Mantis shrimp
 - Sea urchin
 - Crayfish
@@ -73,6 +73,7 @@ Mobs:
 - Eel (with 3 variants: electric, moray, and unagi)
 - Sawfish
 - Blue Footed Booby
+- Sea snake
 
 Food:
 - Raw crab
@@ -303,7 +304,7 @@ Items:
 - Abalone spawn egg
 - Cockle spawn egg
 - Limpet spawn egg
-- Sea snail spawn egg
+- Snail spawn egg
 - Pakicetus spawn egg
 - Whale spawn egg
 - Barnacle spawn egg
@@ -361,6 +362,7 @@ Items:
 - Eel spawn egg
 - Sawfish spawn egg
 - Blue Footed Booby spawn egg
+- Sea snake spawn egg
 
 Structures:
 - Rig
