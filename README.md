@@ -72,6 +72,7 @@ Mobs:
 - Stone fish
 - Eel (with 3 variants: electric, moray, and unagi)
 - Sawfish
+- Blue Footed Booby
 
 Food:
 - Raw crab
@@ -359,6 +360,7 @@ Items:
 - Stone fish spawn egg
 - Eel spawn egg
 - Sawfish spawn egg
+- Blue Footed Booby spawn egg
 
 Structures:
 - Rig
