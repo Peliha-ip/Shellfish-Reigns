@@ -77,6 +77,8 @@ Mobs:
 - Crocodile
 - Barracuda
 - Whale shark
+- Puffin
+- Razorbill
 
 Food:
 - Raw crab
@@ -369,6 +371,8 @@ Items:
 - Crocodile spawn egg
 - Barracuda spawn egg
 - Whale shark spawn egg
+- Puffin spawn egg
+- Razorbill spawn egg
 
 Structures:
 - Rig
