@@ -74,6 +74,7 @@ Mobs:
 - Sawfish
 - Blue Footed Booby
 - Sea snake
+- Crocodile
 
 Food:
 - Raw crab
@@ -363,6 +364,7 @@ Items:
 - Sawfish spawn egg
 - Blue Footed Booby spawn egg
 - Sea snake spawn egg
+- Crocodile spawn egg
 
 Structures:
 - Rig
