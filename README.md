@@ -79,6 +79,7 @@ Mobs:
 - Whale shark
 - Puffin
 - Razorbill
+- Drenched
 
 Food:
 - Raw crab
@@ -373,6 +374,7 @@ Items:
 - Whale shark spawn egg
 - Puffin spawn egg
 - Razorbill spawn egg
+- Drenched spawn egg
 
 Structures:
 - Rig
@@ -422,6 +424,7 @@ Features:
 - Sperm whales and giant squids are enemies towards each other and will fight. The sperm whale will usually win and a block of ambergris will be placed where the giant squid died.
 - Renaming a meerkat "Timon" will change its model to match the famous character from The Lion King.
 - Cats also gain one more texture, the clam one, from Minecraft Dungeons.
+- If a skeleton or stray is underwater for too long, they transform into a drenched. Same deal happens with parcheds, they will just turn into skeletons before turning into drencheds. One more thing, drencheds can turn into strays if they're in powdered snow for too long.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
