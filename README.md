@@ -421,6 +421,7 @@ Features:
 - Pearls can also be used to coat the player's boots to protect themselves from stepping on sea urchins and especially the stone fish. Because it's possible for the stone fish to bypass armor, except if the boots are coated.
 - Sperm whales and giant squids are enemies towards each other and will fight. The sperm whale will usually win and a block of ambergris will be placed where the giant squid died.
 - Renaming a meerkat "Timon" will change its model to match the famous character from The Lion King.
+- Cats also gain one more texture, the clam one, from Minecraft Dungeons.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
@@ -443,3 +444,4 @@ Advancements:
 - Legacy fish (Catch a driftfish with a fishing rod)
 - That Was Close (Shear a whale carcass before it explodes)
 - Shellfish Allergy (Eat every raw shellfish)
+- Eau De Toilette (Use perfume on yourself)
