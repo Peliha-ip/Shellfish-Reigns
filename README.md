@@ -141,6 +141,7 @@ Food:
 - Raw eel
 - Cooked eel
 - Coconut
+- Coconut cheese
 
 Blocks:
 - Krill block
