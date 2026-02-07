@@ -298,6 +298,8 @@ Items:
 - Water charge
 - Coating book
 - Crab spawn egg
+- Shuriken
+- Stingray stinger
 - Lobster spawn egg
 - Shrimp spawn egg
 - Prawn spawn egg
@@ -426,6 +428,7 @@ Features:
 - Renaming a meerkat "Timon" will change its model to match the famous character from The Lion King.
 - Cats also gain one more texture, the clam one, from Minecraft Dungeons.
 - If a skeleton or stray is underwater for too long, they transform into a drenched. Same deal happens with parcheds, they will just turn into skeletons before turning into drencheds. One more thing, drencheds can turn into strays if they're in powdered snow for too long.
+- Renaming a platypus "Perry" or "Pluckbill" with change its texture to match either character.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
@@ -449,3 +452,6 @@ Advancements:
 - That Was Close (Shear a whale carcass before it explodes)
 - Shellfish Allergy (Eat every raw shellfish)
 - Eau De Toilette (Use perfume on yourself)
+- Star Bright, Star Fight (Hit a mob with a shuriken)
+- RIP, Steve Irwin (Remove the stinger from a stingray)
+- Cool, Calm, and Clear Like Water (Eat boiled shellfish for the first time)
