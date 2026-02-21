@@ -429,6 +429,10 @@ Features:
 - Cats also gain one more texture, the clam one, from Minecraft Dungeons.
 - If a skeleton or stray is underwater for too long, they transform into a drenched. Same deal happens with parcheds, they will just turn into skeletons before turning into drencheds. One more thing, drencheds can turn into strays if they're in powdered snow for too long.
 - Renaming a platypus "Perry" or "Pluckbill" with change its texture to match either character.
+- Renaming a crab "Mr. Krabs" will change its texture to match the character from SpongeBob SquarePants.
+- Renaming an octopus "Squidward" will change its model to match the character from SpongeBob SquarePants.
+- Renaming a squid "Cranchee" will change its model to match the character from My Singing Monsters.
+- Renaming a starfish "Patrick" will change its texture to match the character from SpongeBob SquarePants.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
