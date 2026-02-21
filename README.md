@@ -433,6 +433,7 @@ Features:
 - Renaming an octopus "Squidward" will change its model to match the character from SpongeBob SquarePants.
 - Renaming a squid "Cranchee" will change its model to match the character from My Singing Monsters.
 - Renaming a starfish "Patrick" will change its texture to match the character from SpongeBob SquarePants.
+- Renaming a whale "Bowhead" will change its model to match the character from My Singing Monsters.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
