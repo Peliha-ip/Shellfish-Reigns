@@ -80,6 +80,8 @@ Mobs:
 - Puffin
 - Razorbill
 - Drenched
+- Pterosaur
+- Plesiosaur
 
 Food:
 - Raw crab
@@ -237,6 +239,10 @@ Blocks:
 - Ichthyosaur egg
 - Hermit crab egg
 - Coconut crab egg
+- Pterosaur egg
+- Plesiosaur egg
+- Pterosaur reviver
+- Plesiosaur reviver
 - Pearl lamp
 
 Items:
@@ -378,6 +384,8 @@ Items:
 - Puffin spawn egg
 - Razorbill spawn egg
 - Drenched spawn egg
+- Pterosaur spawn egg
+- Plesiosaur spawn egg
 
 Structures:
 - Rig
