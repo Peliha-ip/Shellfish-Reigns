@@ -473,4 +473,4 @@ Advancements:
 - Star Bright, Star Fight (Hit a mob with a shuriken)
 - RIP, Steve Irwin (Remove the stinger from a stingray)
 - Cool, Calm, and Clear Like Water (Eat boiled shellfish for the first time)
-- Who Lives in a Pineapple Under the Sea (Place a pineapple 
+- Who Lives in a Pineapple Under the Sea (Place a pineapple in an ocean biome)
