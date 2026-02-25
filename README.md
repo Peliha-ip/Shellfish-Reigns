@@ -144,6 +144,8 @@ Food:
 - Cooked eel
 - Coconut
 - Coconut cheese
+- Pineapple slice
+- Pineapple juice
 
 Blocks:
 - Krill block
@@ -244,6 +246,8 @@ Blocks:
 - Pterosaur reviver
 - Plesiosaur reviver
 - Pearl lamp
+- Pineapple
+- Pineapple bush
 
 Items:
 - Palm boat with chest
@@ -469,3 +473,4 @@ Advancements:
 - Star Bright, Star Fight (Hit a mob with a shuriken)
 - RIP, Steve Irwin (Remove the stinger from a stingray)
 - Cool, Calm, and Clear Like Water (Eat boiled shellfish for the first time)
+- Who Lives in a Pineapple Under the Sea (Place a pineapple 
