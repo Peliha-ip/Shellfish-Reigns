@@ -173,11 +173,6 @@ Blocks:
 - Cut pearl block
 - Ambergris
 - Tropical slime block
-- Extinct shellfish reviver
-- Ichthyosaur reviver
-- Dunkleosteus reviver
-- Mosasaur reviver
-- Helicoprion reviver
 - Steel pan
 - Verdant coral
 - Verdant coral fan
@@ -243,8 +238,6 @@ Blocks:
 - Coconut crab egg
 - Pterosaur egg
 - Plesiosaur egg
-- Pterosaur reviver
-- Plesiosaur reviver
 - Pearl lamp
 - Pineapple
 - Pineapple bush
@@ -294,16 +287,6 @@ Items:
 - Tropical slimeball
 - Shark tooth
 - Bucket of driftfish
-- Extinct shellfish husk
-- Extinct shellfish DNA
-- Mosasaur husk
-- Mosasaur DNA
-- Ichthyosaur husk
-- Ichthyosaur DNA
-- Dunkleosteus husk
-- Dunkleosteus DNA
-- Helicoprion husk
-- Helicoprion DNA
 - Soaker rod
 - Water charge
 - Coating book
@@ -415,51 +398,51 @@ Features:
 - Combining a crab claw and a lobster claw with sticks and strings gives the player the crustacean staff that extends both
 - Perfume repels creepers, undead mobs, spiders, cave spiders, and silverfish
 - Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautiluses, meerkats, whales, dolphins, pakicetuses, sniffers, ocelots, seagulls, flamingos, harbor seals, platipuses, and mantis shrimps
-- Perfume is forbidden in the deep dark and ancient cities as they're an immediate trigger to the warden
+- Perfume is forbidden in the deep dark, and ancient cities, as it's an immediate trigger to the warden
 - Pakicetuses show interests towards whales and dolphins
-- Cold ocean ruins can have pakicetus husks in suspicious gravel
+- Cold ocean ruins can have Pakicetus husks in suspicious gravel
 - Seagulls would pick up some items like spider eyes or rotten flesh on beaches
 - Flamingos can be dyed since they're white by default and turn pink when eating shrimp.
 - Tropical slimes hang out in warm and lukewarm oceans and attack anything in the water. They get bigger the more they eat.
-- Tropical slime blocks are technically water blocks with a biofilm. This means aquatic mobs and can live in tropical slime blocks and they can be used for negating fall damage without bouncing uncontrollably. Tropical slime blocks also keep corals alive.
+- Tropical slime blocks are technically water blocks with a biofilm. This means aquatic mobs can live in tropical slime blocks, and they can be used for negating fall damage without bouncing uncontrollably. Tropical slime blocks also keep corals alive.
 - Touching a jellyfish will give the player poison for 30 seconds.
 - Seals attack any fish or shellfish mobs.
-- Great white sharks attack seals and turtles. They can attack players, but cues will show that it was an accidental attack (as sharks actually attack people because of misindentification and let go when they realize their mistake).
+- Great white sharks attack seals and turtles. They can attack players, but cues will show that it was an accidental attack (as sharks actually attack people because of misidentification and let go when they realize their mistake).
 - Every 5-10 minutes, great white sharks would drop a shark tooth.
-- A whale that dies on the shore would create a violent explosion 5 minutes after death, however, the player has a 5 minutes countdown to shear the whale carcass before it explodes.
+- A whale that dies on the shore would create an explosion 5 minutes after death; however, the player has a 5-minute countdown to shear the whale carcass before it explodes.
 - Every 5-10 minutes, parrotfish would drop sand.
 - It's now possible to dye sand with a red dye to get red sand.
-- Piranhas aren't the murder fish we see in media, that's because they're either herbivores or scavengers. That's why you breed them with kelp and they target undead mobs. At worst, the piranha might nib the player if they stay still for too long.
+- Piranhas aren't the murder fish we see in the media; that's because they're either herbivores or scavengers. That's why you breed them with kelp, and they target undead mobs. At worst, the piranha might nibble the player if they stay still for too long.
 - Coconut crabs can occasionally spawn as a jockey where a bogged can ride it.
 - Soakers are found in the rig and spa structures.
 - Water charges are like water balloons. They're not just useful for combat, but also to mitigate fall damage by placing a water source where you aimed.
 - Throwing a copper ingot in a wishing well could give the player some interesting items.
 - The pearl lamp is the only block where the light level can be decided by the player.
-- Pearls can also be used to coat the player's boots to protect themselves from stepping on sea urchins and especially the stone fish. Because it's possible for the stone fish to bypass armor, except if the boots are coated.
-- Sperm whales and giant squids are enemies towards each other and will fight. The sperm whale will usually win and a block of ambergris will be placed where the giant squid died.
+- Pearls can also be used to coat the player's boots to protect themselves from stepping on sea urchins and especially the stone fish. Because the stone fish can bypass armor, except if the boots are coated.
+- Sperm whales and giant squids are enemies towards each other and will fight. The sperm whale will usually win, and a block of ambergris will be placed where the giant squid died.
 - Renaming a meerkat "Timon" will change its model to match the famous character from The Lion King.
 - Cats also gain one more texture, the clam one, from Minecraft Dungeons.
-- If a skeleton or stray is underwater for too long, they transform into a drenched. Same deal happens with parcheds, they will just turn into skeletons before turning into drencheds. One more thing, drencheds can turn into strays if they're in powdered snow for too long.
+- If a skeleton or a stray is underwater for too long, they transform into a drenched. The same deal happens with parcheds, they will just turn into skeletons before turning into drencheds. One more thing, drencheds can turn into strays if they're in powdered snow for too long.
 - Renaming a platypus "Perry" or "Pluckbill" with change its texture to match either character.
 - Renaming a crab "Mr. Krabs" will change its texture to match the character from SpongeBob SquarePants.
 - Renaming an octopus "Squidward" will change its model to match the character from SpongeBob SquarePants.
 - Renaming a squid "Cranchee" will change its model to match the character from My Singing Monsters.
 - Renaming a starfish "Patrick" will change its texture to match the character from SpongeBob SquarePants.
 - Renaming a whale "Bowhead" will change its model to match the character from My Singing Monsters.
-- Renaming a coconut crab "Ziggurab" or "Drummidary" will change its model to match either characters.
+- Renaming a coconut crab "Ziggurab" or "Drummidary" will change its model to match either character.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
 - Mommy's Favorite (Eat every cooked shellfish)
-- A New Look (Change an hermit crab)
+- A New Look (Change a hermit crab)
 - The Rave (Make crabs dance)
 - Pearl Hunter (Collect a pearl)
 - Krill Caller (Place a krill block next to a whale)
 - Big Splash, Tiny Splash (Breed two whales with one krill block each)
-- Primordial Potential (Dig up a pakicetus husk from suspicious gravel)
-- Genesis of a Pakicetus (Smelt a pakicetus husk to obtain pakicetus DNA)
-- Whaley Interesting (Obtain a pakicetus egg from the pakicetus reviver)
-- When Whales & Dolphins Had Legs (Hatch a pakicetus calf)
+- Primordial Potential (Dig up a Pakicetus husk from suspicious gravel)
+- Genesis of a Pakicetus (Smelt a Pakicetus husk to obtain Pakicetus DNA)
+- Whaley Interesting (Obtain a Pakicetus egg from the Pakicetus reviver)
+- When Whales & Dolphins Had Legs (Hatch a Pakicetus calf)
 - Watcha Back (Hit an armadillo while wielding the crustacean staff)
 - Really Funny, Hog (Place a sweet berry bush in an oasis)
 - One Gull's Trash (Give a trash item to a seagull)
