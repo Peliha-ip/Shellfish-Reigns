@@ -63,7 +63,7 @@ Mobs:
 - Piranha
 - Tripod fish
 - Anemone
-- Nudibranch
+- Nudibranch(with 16 variants: sea sheep, sea bunny, blue sea dragon, spanish dancer, dusky, bighorn, violet aeolid, pikachu, doughnut doto, giant hypselodoris, varicose wart, white-lined dirona, reticulated, berghia, lemon, loch)
 - Seahorse
 - Stingray
 - Sea cucumber
