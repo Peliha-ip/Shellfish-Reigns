@@ -72,7 +72,7 @@ Mobs:
 - Stone fish
 - Eel (with 3 variants: electric, moray, and unagi)
 - Sawfish
-- Blue footed booby
+- Blue-footed booby
 - Sea snake
 - Crocodile
 - Barracuda
@@ -228,7 +228,7 @@ Blocks:
 - Platypus egg
 - Crab egg
 - Pakicetus egg
-- Extinct shellfish egg
+- Extinct invertebrate egg
 - Dunkleosteus egg
 - Mosasaur egg
 - Lobster egg
@@ -363,7 +363,7 @@ Items:
 - Stone fish spawn egg
 - Eel spawn egg
 - Sawfish spawn egg
-- Blue footed booby spawn egg
+- Blue-footed booby spawn egg
 - Sea snake spawn egg
 - Crocodile spawn egg
 - Barracuda spawn egg
@@ -458,3 +458,7 @@ Advancements:
 - RIP, Steve Irwin (Remove the stinger from a stingray)
 - Cool, Calm, and Clear Like Water (Eat boiled shellfish for the first time)
 - Who Lives in a Pineapple Under the Sea (Place a pineapple in an ocean biome)
+
+Tag:
+
+-Shellfish: crab, lobster, shrimp, prawn, oyster, clam, mussel, scallop, abalone, cockle, limpet, snail, barnacle, squid, glow squid, coconut crab, mantis shrimp, crayfish, octopus, ammonite, cuttlefish, giant squid, and nudibranch
