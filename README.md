@@ -430,6 +430,7 @@ Features:
 - Renaming a starfish "Patrick" will change its texture to match the character from SpongeBob SquarePants.
 - Renaming a whale "Bowhead" will change its model to match the character from My Singing Monsters.
 - Renaming a coconut crab "Ziggurab" or "Drummidary" will change its model to match either character.
+- Elder guardians can rarely spawn near rigs.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
