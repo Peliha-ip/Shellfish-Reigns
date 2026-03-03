@@ -82,6 +82,7 @@ Mobs:
 - Drenched
 - Pterosaur
 - Plesiosaur
+- Pirate
 
 Food:
 - Raw crab
@@ -373,6 +374,7 @@ Items:
 - Drenched spawn egg
 - Pterosaur spawn egg
 - Plesiosaur spawn egg
+- Pirate spawn egg
 
 Structures:
 - Rig
@@ -381,6 +383,10 @@ Structures:
 - Spa
 - Sand castle
 - Wishing well
+- Hot tub
+- Resort
+- Sauna
+- Pirate ship
 
 Enchantment:
 - Spine coating
@@ -398,7 +404,7 @@ Features:
 - Combining a crab claw and a lobster claw with sticks and strings gives the player the crustacean staff that extends both
 - Perfume repels creepers, undead mobs, spiders, cave spiders, and silverfish
 - Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautiluses, meerkats, whales, dolphins, pakicetuses, sniffers, ocelots, seagulls, flamingos, harbor seals, platipuses, and mantis shrimps
-- Perfume is forbidden in the deep dark, and ancient cities, as it's an immediate trigger to the warden
+- Perfume is forbidden in the deep dark, and ancient cities, as it's an immediate trigger for the warden
 - Pakicetuses show interests towards whales and dolphins
 - Cold ocean ruins can have Pakicetus husks in suspicious gravel
 - Seagulls would pick up some items like spider eyes or rotten flesh on beaches
@@ -431,6 +437,7 @@ Features:
 - Renaming a whale "Bowhead" will change its model to match the character from My Singing Monsters.
 - Renaming a coconut crab "Ziggurab" or "Drummidary" will change its model to match either character.
 - Elder guardians can rarely spawn near rigs.
+- Pirates are found in pirate ships and rigs.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
@@ -456,8 +463,15 @@ Advancements:
 - Eau De Toilette (Use perfume on yourself)
 - Star Bright, Star Fight (Hit a mob with a shuriken)
 - RIP, Steve Irwin (Remove the stinger from a stingray)
-- Cool, Calm, and Clear Like Water (Eat boiled shellfish for the first time)
+- Bon Appétit (Eat boiled shellfish for the first time)
 - Who Lives in a Pineapple Under the Sea (Place a pineapple in an ocean biome)
+- You Got a Shine (Enter a resort)
+- Cool, Calm, and Clear Like Water (Enter a spa)
+- Got My Wish (Obtain something from the wishing well)
+- Bringing the Heat (Enter a sauna)
+- Steamy Relaxation (Soak yourself in the hot tub)
+- Shiver Me Timbers (Raid a pirate ship)
+- Rayne Syndicate (Enter a rig)
 
 Tags:
 
