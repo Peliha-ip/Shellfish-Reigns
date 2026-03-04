@@ -83,6 +83,7 @@ Mobs:
 - Pterosaur
 - Plesiosaur
 - Pirate
+- Frogfish
 
 Food:
 - Raw crab
@@ -375,6 +376,7 @@ Items:
 - Pterosaur spawn egg
 - Plesiosaur spawn egg
 - Pirate spawn egg
+- Frogfish spawn egg
 
 Structures:
 - Rig
