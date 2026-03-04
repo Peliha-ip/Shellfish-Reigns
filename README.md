@@ -297,9 +297,10 @@ Items:
 - Soaker rod
 - Water charge
 - Coating book
-- Crab spawn egg
+- Ocean horn
 - Shuriken
 - Stingray stinger
+- Crab spawn egg
 - Lobster spawn egg
 - Shrimp spawn egg
 - Prawn spawn egg
@@ -447,7 +448,8 @@ Features:
 - Renaming a coconut crab "Ziggurab" or "Drummidary" will change its model to match either character.
 - Elder guardians can rarely spawn near rigs.
 - Pirates are found in pirate ships and rigs.
-- Cone snails have very deadly poison, if they sting a player, wither, slowness, weakness, and poison is granted to them. So, just like in real life, do not touch it.
+- Cone snails have very deadly poison. If they sting a player, wither, slowness, weakness, nausea, and poison are granted to them. So, just like in real life, do not touch it.
+- Crafting a conch shell with a goat horn results in the ocean horn. Ocean horns attract nearby aquatic animals and repel aquatic monsters.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
