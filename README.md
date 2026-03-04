@@ -84,6 +84,8 @@ Mobs:
 - Plesiosaur
 - Pirate
 - Frogfish
+- Conch
+- Cone snail
 
 Food:
 - Raw crab
@@ -148,6 +150,8 @@ Food:
 - Coconut cheese
 - Pineapple slice
 - Pineapple juice
+- Raw conch
+- Boiled conch
 
 Blocks:
 - Krill block
@@ -243,6 +247,7 @@ Blocks:
 - Pearl lamp
 - Pineapple
 - Pineapple bush
+- Conch shell
 
 Items:
 - Palm boat with chest
@@ -377,6 +382,8 @@ Items:
 - Plesiosaur spawn egg
 - Pirate spawn egg
 - Frogfish spawn egg
+- Conch spawn egg
+- Cone snail spawn egg
 
 Structures:
 - Rig
@@ -440,6 +447,7 @@ Features:
 - Renaming a coconut crab "Ziggurab" or "Drummidary" will change its model to match either character.
 - Elder guardians can rarely spawn near rigs.
 - Pirates are found in pirate ships and rigs.
+- Cone snails have very deadly poison, if they sting a player, wither, slowness, weakness, and poison is granted to them. So, just like in real life, do not touch it.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
@@ -477,5 +485,5 @@ Advancements:
 
 Tags:
 
-- Shellfish: crab, lobster, shrimp, prawn, oyster, clam, mussel, scallop, abalone, cockle, limpet, snail, barnacle, squid, glow squid, coconut crab, mantis shrimp, crayfish, octopus, ammonite, cuttlefish, giant squid, and nudibranch
+- Shellfish: crab, lobster, shrimp, prawn, oyster, clam, mussel, scallop, abalone, cockle, limpet, snail, barnacle, squid, glow squid, coconut crab, mantis shrimp, crayfish, octopus, ammonite, cuttlefish, giant squid, and nudibranch, conch, cone snail
 - Extinct invertebrate: ammonite, trilobite, anomalocaris, hallucigenia, opabinia, tamisiocaris, sea scorpion, dickinsonia, wiwaxia
