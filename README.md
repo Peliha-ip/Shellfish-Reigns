@@ -63,7 +63,7 @@ Mobs:
 - Piranha
 - Tripod fish
 - Anemone
-- Nudibranch(with 16 variants: sea sheep, sea bunny, blue sea dragon, spanish dancer, dusky, bighorn, violet aeolid, pikachu, doughnut doto, giant hypselodoris, varicose wart, white-lined dirona, reticulated, berghia, lemon, loch)
+- Nudibranch (with 16 variants: sea sheep, sea bunny, blue sea dragon, spanish dancer, dusky, bighorn, violet aeolid, pikachu, doughnut doto, giant hypselodoris, varicose wart, white-lined dirona, reticulated, berghia, lemon, loch)
 - Seahorse
 - Stingray
 - Sea cucumber
@@ -86,6 +86,9 @@ Mobs:
 - Frogfish
 - Conch
 - Cone snail
+- Basilosaurus
+- Dorudon
+- Livyathan
 
 Food:
 - Raw crab
@@ -244,6 +247,9 @@ Blocks:
 - Coconut crab egg
 - Pterosaur egg
 - Plesiosaur egg
+- Basilosaurus egg
+- Dorudon egg
+- Livythan egg
 - Pearl lamp
 - Pineapple
 - Pineapple bush
@@ -385,6 +391,9 @@ Items:
 - Frogfish spawn egg
 - Conch spawn egg
 - Cone snail spawn egg
+- Dorudon spawn egg
+- Basilosaurus spawn egg
+- Livythan spawn egg
 
 Structures:
 - Rig
@@ -450,6 +459,7 @@ Features:
 - Pirates are found in pirate ships and rigs.
 - Cone snails have very deadly poison. If they sting a player, wither, slowness, weakness, nausea, and poison are granted to them. So, just like in real life, do not touch it.
 - Crafting a conch shell with a goat horn results in the ocean horn. Ocean horns attract nearby aquatic animals and repel aquatic monsters.
+- Barnacles can spawn on underwater structures or slow underwater mobs like turtles or whales as jockeys.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
@@ -459,9 +469,7 @@ Advancements:
 - Pearl Hunter (Collect a pearl)
 - Krill Caller (Place a krill block next to a whale)
 - Big Splash, Tiny Splash (Breed two whales with one krill block each)
-- Primordial Potential (Dig up a Pakicetus husk from suspicious gravel)
-- Genesis of a Pakicetus (Smelt a Pakicetus husk to obtain Pakicetus DNA)
-- Whaley Interesting (Obtain a Pakicetus egg from the Pakicetus reviver)
+- Whaley Interesting (Obtain a Pakicetus, Basilosaurus, Dorudon, or Livythan husk)
 - When Whales & Dolphins Had Legs (Hatch a Pakicetus calf)
 - Watcha Back (Hit an armadillo while wielding the crustacean staff)
 - Really Funny, Hog (Place a sweet berry bush in an oasis)
@@ -489,3 +497,4 @@ Tags:
 
 - Shellfish: crab, lobster, shrimp, prawn, oyster, clam, mussel, scallop, abalone, cockle, limpet, snail, barnacle, squid, glow squid, coconut crab, mantis shrimp, crayfish, octopus, ammonite, cuttlefish, giant squid, and nudibranch, conch, cone snail
 - Extinct invertebrate: ammonite, trilobite, anomalocaris, hallucigenia, opabinia, tamisiocaris, sea scorpion, dickinsonia, wiwaxia
+- Barnacle vehicle: turtle, whale, manatee, dugong, dolphin, oyster, clam, mussel, limpet, abalone, conch, whale shark, ammonite, dunkleosteus, mosasaur, pleisiosaur, basilosaurus, dorudon
