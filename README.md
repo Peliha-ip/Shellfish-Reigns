@@ -160,6 +160,9 @@ Blocks:
 - Krill block
 - Pearl block
 - Pakicetus reviver
+- Dorudon reviver
+- Basilosaurus reviver
+- Livythan reviver
 - Coconut husk block
 - Palm fronds
 - Palm log
