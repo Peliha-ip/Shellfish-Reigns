@@ -252,7 +252,7 @@ Blocks:
 - Plesiosaur egg
 - Basilosaurus egg
 - Dorudon egg
-- Livythan egg
+- Livyathan egg
 - Pearl lamp
 - Pineapple
 - Pineapple bush
@@ -396,7 +396,7 @@ Items:
 - Cone snail spawn egg
 - Dorudon spawn egg
 - Basilosaurus spawn egg
-- Livythan spawn egg
+- Livyathan spawn egg
 
 Structures:
 - Rig
@@ -472,7 +472,7 @@ Advancements:
 - Pearl Hunter (Collect a pearl)
 - Krill Caller (Place a krill block next to a whale)
 - Big Splash, Tiny Splash (Breed two whales with one krill block each)
-- Whaley Interesting (Obtain a Pakicetus, Basilosaurus, Dorudon, or Livythan husk)
+- Whaley Interesting (Obtain a Pakicetus, Basilosaurus, Dorudon, or Livyathan husk)
 - When Whales & Dolphins Had Legs (Hatch a Pakicetus calf)
 - Watcha Back (Hit an armadillo while wielding the crustacean staff)
 - Really Funny, Hog (Place a sweet berry bush in an oasis)
