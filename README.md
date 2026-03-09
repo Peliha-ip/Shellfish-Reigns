@@ -163,7 +163,8 @@ Blocks:
 - Pakicetus reviver
 - Dorudon reviver
 - Basilosaurus reviver
-- Livythan reviver
+- Livyathan reviver
+- Baiji reviver
 - Coconut husk block
 - Palm fronds
 - Palm log
@@ -473,7 +474,7 @@ Features:
 - Pirates are found in pirate ships and rigs.
 - Cone snails have very deadly poison. If they sting a player, wither, slowness, weakness, nausea, and poison are granted to them. So, just like in real life, do not touch it.
 - Crafting a conch shell with a goat horn results in the ocean horn. Ocean horns attract nearby aquatic animals and repel aquatic monsters.
-- Barnacles can spawn on underwater structures or slow underwater mobs like turtles or whales as jockeys.
+- Barnacles can spawn on underwater structures or slow underwater mobs like turtles or whales as jockeys. They're mostly found on whales, turtles, shipwrecks, ruins, and monuments.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
@@ -506,6 +507,7 @@ Advancements:
 - Steamy Relaxation (Soak yourself in the hot tub)
 - Shiver Me Timbers (Raid a pirate ship)
 - Rayne Syndicate (Enter a rig)
+- Still a Mammal (Revive a basilosaurus)
 
 Tags:
 
