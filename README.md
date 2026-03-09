@@ -89,6 +89,7 @@ Mobs:
 - Basilosaurus
 - Dorudon
 - Livyathan
+- Baiji
 
 Food:
 - Raw crab
@@ -253,6 +254,7 @@ Blocks:
 - Basilosaurus egg
 - Dorudon egg
 - Livyathan egg
+- Baiji egg
 - Pearl lamp
 - Pineapple
 - Pineapple bush
@@ -309,6 +311,14 @@ Items:
 - Ocean horn
 - Shuriken
 - Stingray stinger
+- Basilosaurus husk
+- Basilosaurus DNA
+- Dorudon husk
+- Dorudon DNA
+- Livyathan husk
+- Livyathan DNA
+- Baiji husk
+- Baiji DNA
 - Crab spawn egg
 - Lobster spawn egg
 - Shrimp spawn egg
@@ -397,6 +407,7 @@ Items:
 - Dorudon spawn egg
 - Basilosaurus spawn egg
 - Livyathan spawn egg
+- Baiji spawn egg
 
 Structures:
 - Rig
