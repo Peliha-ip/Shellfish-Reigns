@@ -95,6 +95,7 @@ Mobs:
 - Triggerfish
 - Lancelet
 - Sea squirt
+- Sand dollar
 
 Food:
 - Raw crab
@@ -263,6 +264,8 @@ Blocks:
 - Conch shell
 - Sea sponge block
 - Triggerfishspawn
+- Shell chime
+- Shell mosaic block
 
 Items:
 - Palm boat with chest
@@ -323,6 +326,8 @@ Items:
 - Livyathan DNA
 - Baiji husk
 - Baiji DNA
+- Sand dollar shell
+- Sand dollar banner pattern
 - Crab spawn egg
 - Lobster spawn egg
 - Shrimp spawn egg
@@ -417,6 +422,7 @@ Items:
 - Triggerfish spawn egg
 - Lancelet spawn egg
 - Sea squirt spawn egg
+- Sand dollar spawn egg
 
 Structures:
 - Rig
