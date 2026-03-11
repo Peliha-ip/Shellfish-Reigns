@@ -90,6 +90,11 @@ Mobs:
 - Dorudon
 - Livyathan
 - Baiji
+- Cormorant
+- Tully monster
+- Triggerfish
+- Lancelet
+- Sea squirt
 
 Food:
 - Raw crab
@@ -160,11 +165,7 @@ Food:
 Blocks:
 - Krill block
 - Pearl block
-- Pakicetus reviver
-- Dorudon reviver
-- Basilosaurus reviver
-- Livyathan reviver
-- Baiji reviver
+- Cetacean reviver
 - Coconut husk block
 - Palm fronds
 - Palm log
@@ -260,6 +261,8 @@ Blocks:
 - Pineapple
 - Pineapple bush
 - Conch shell
+- Sea sponge block
+- Triggerfishspawn
 
 Items:
 - Palm boat with chest
@@ -409,6 +412,11 @@ Items:
 - Basilosaurus spawn egg
 - Livyathan spawn egg
 - Baiji spawn egg
+- Cormorant spawn egg
+- Tully monster spawn egg
+- Triggerfish spawn egg
+- Lancelet spawn egg
+- Sea squirt spawn egg
 
 Structures:
 - Rig
@@ -421,6 +429,7 @@ Structures:
 - Resort
 - Sauna
 - Pirate ship
+- Pier
 
 Enchantment:
 - Spine coating
@@ -439,7 +448,7 @@ Features:
 - Perfume repels creepers, undead mobs, spiders, cave spiders, and silverfish
 - Perfume attracts foxes, rabbits, cats, wolves, armadillos, axolotls, striders, bees, nautiluses, meerkats, whales, dolphins, pakicetuses, sniffers, ocelots, seagulls, flamingos, harbor seals, platipuses, and mantis shrimps
 - Perfume is forbidden in the deep dark, and ancient cities, as it's an immediate trigger for the warden
-- Pakicetuses show interests towards whales and dolphins
+- Pakicetuses show interests towards whales, dorudons, basilosauruses, livyathans, sperm whales, baijis, and dolphins
 - Cold ocean ruins can have Pakicetus husks in suspicious gravel
 - Seagulls would pick up some items like spider eyes or rotten flesh on beaches
 - Flamingos can be dyed since they're white by default and turn pink when eating shrimp.
@@ -475,6 +484,7 @@ Features:
 - Cone snails have very deadly poison. If they sting a player, wither, slowness, weakness, nausea, and poison are granted to them. So, just like in real life, do not touch it.
 - Crafting a conch shell with a goat horn results in the ocean horn. Ocean horns attract nearby aquatic animals and repel aquatic monsters.
 - Barnacles can spawn on underwater structures or slow underwater mobs like turtles or whales as jockeys. They're mostly found on whales, turtles, shipwrecks, ruins, and monuments.
+- Triggerfish can be very aggressive while in love mode or next to triggerfishspawn blocks. That's why the best thing you can do in this situation is to swim away without surfacing, because their territory gets bigger the closer you are to the surface. Their bite does a lot of damage; that's why divers fear them more than sharks.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
@@ -512,5 +522,7 @@ Advancements:
 Tags:
 
 - Shellfish: crab, lobster, shrimp, prawn, oyster, clam, mussel, scallop, abalone, cockle, limpet, snail, barnacle, squid, glow squid, coconut crab, mantis shrimp, crayfish, octopus, ammonite, cuttlefish, giant squid, and nudibranch, conch, cone snail
-- Extinct invertebrate: ammonite, trilobite, anomalocaris, hallucigenia, opabinia, tamisiocaris, sea scorpion, dickinsonia, wiwaxia
+- Extinct invertebrate: ammonite, trilobite, anomalocaris, hallucigenia, opabinia, tamisiocaris, sea scorpion, dickinsonia, wiwaxia, tully monster
 - Barnacle vehicle: turtle, whale, manatee, dugong, dolphin, oyster, clam, mussel, limpet, abalone, conch, whale shark, ammonite, dunkleosteus, mosasaur, pleisiosaur, basilosaurus, dorudon
+- Cetacean: whale, dolphin, basilosaurus, dorudon, pakicetus, sperm whale, livyathan, baiji
+- Extinct cetacean: pakicetus, basilosaurus, dorudon, livyathan, baiji
