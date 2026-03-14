@@ -263,7 +263,7 @@ Blocks:
 - Pineapple bush
 - Conch shell
 - Sea sponge block
-- Triggerfishspawn
+- Triggerfish spawn
 - Shell chime
 - Shell mosaic block
 
@@ -472,13 +472,13 @@ Features:
 - Soakers are found in the rig and spa structures.
 - Water charges are like water balloons. They're not just useful for combat, but also to mitigate fall damage by placing a water source where you aimed.
 - Throwing a copper ingot in a wishing well could give the player some interesting items.
-- The pearl lamp is the only block where the light level can be decided by the player.
-- Pearls can also be used to coat the player's boots to protect themselves from stepping on sea urchins and especially the stone fish. Because the stone fish can bypass armor, except if the boots are coated.
+- The pearl lamp is the only block where the player can decide the light level.
+- Pearls can also be used to coat the player's boots to protect themselves from stepping on sea urchins and especially the stone fish because the stone fish can bypass armor, except if the boots are coated.
 - Sperm whales and giant squids are enemies towards each other and will fight. The sperm whale will usually win, and a block of ambergris will be placed where the giant squid died.
 - Renaming a meerkat "Timon" will change its model to match the famous character from The Lion King.
 - Cats also gain one more texture, the clam one, from Minecraft Dungeons.
-- If a skeleton or a stray is underwater for too long, they transform into a drenched. The same deal happens with parcheds, they will just turn into skeletons before turning into drencheds. One more thing, drencheds can turn into strays if they're in powdered snow for too long.
-- Renaming a platypus "Perry" or "Pluckbill" with change its texture to match either character.
+- If a skeleton or a stray is underwater for too long, they transform into a drenched. The same deal applies to parcheds; they will turn into skeletons before turning into drencheds. One more thing, drencheds can turn into strays if they're in powdered snow for too long.
+- Renaming a platypus "Perry" or "Pluckbill" changes its texture to match either character.
 - Renaming a crab "Mr. Krabs" will change its texture to match the character from SpongeBob SquarePants.
 - Renaming an octopus "Squidward" will change its model to match the character from SpongeBob SquarePants.
 - Renaming a squid "Cranchee" will change its model to match the character from My Singing Monsters.
@@ -490,7 +490,7 @@ Features:
 - Cone snails have very deadly poison. If they sting a player, wither, slowness, weakness, nausea, and poison are granted to them. So, just like in real life, do not touch it.
 - Crafting a conch shell with a goat horn results in the ocean horn. Ocean horns attract nearby aquatic animals and repel aquatic monsters.
 - Barnacles can spawn on underwater structures or slow underwater mobs like turtles or whales as jockeys. They're mostly found on whales, turtles, shipwrecks, ruins, and monuments.
-- Triggerfish can be very aggressive while in love mode or next to triggerfishspawn blocks. That's why the best thing you can do in this situation is to swim away without surfacing, because their territory gets bigger the closer you are to the surface. Their bite does a lot of damage; that's why divers fear them more than sharks.
+- Triggerfish can be very aggressive while in love mode or next to triggerfish spawn blocks. That's why the best thing you can do in this situation is to swim away without surfacing, because their territory gets bigger the closer you are to the surface. Their bite does a lot of damage; that's why divers fear them more than sharks.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
