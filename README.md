@@ -533,7 +533,8 @@ Advancements:
 - Shiver Me Timbers (Raid a pirate ship)
 - Rayne Syndicate (Enter a rig)
 - Still a Mammal (Revive a basilosaurus)
-- I Foresaw This Outcome (Get loot from a wishing well)
+- I Foresaw This Outcome (Get a tidebreaker from a wishing well)
+- Any Last Wishes (Obtain husks from a wishing well)
 - I Have Granted You Defeat (Kill a mob with the tidebreaker)
 
 Tags:
