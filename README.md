@@ -96,6 +96,7 @@ Mobs:
 - Lancelet
 - Sea squirt
 - Sand dollar
+- Desmostylian
 
 Food:
 - Raw crab
@@ -167,6 +168,8 @@ Blocks:
 - Krill block
 - Pearl block
 - Cetacean reviver
+- Extinct invertebrate reviver
+- Desmostylian reviver
 - Coconut husk block
 - Palm fronds
 - Palm log
@@ -258,6 +261,7 @@ Blocks:
 - Dorudon egg
 - Livyathan egg
 - Baiji egg
+- Desmostylian egg
 - Pearl lamp
 - Pineapple
 - Pineapple bush
@@ -328,6 +332,9 @@ Items:
 - Baiji DNA
 - Sand dollar shell
 - Sand dollar banner pattern
+- Tidebreaker
+- Desmostylian husk
+- Desmostylian DNA
 - Crab spawn egg
 - Lobster spawn egg
 - Shrimp spawn egg
@@ -423,6 +430,7 @@ Items:
 - Lancelet spawn egg
 - Sea squirt spawn egg
 - Sand dollar spawn egg
+- Desmostylian spawn egg
 
 Structures:
 - Rig
@@ -491,6 +499,7 @@ Features:
 - Crafting a conch shell with a goat horn results in the ocean horn. Ocean horns attract nearby aquatic animals and repel aquatic monsters.
 - Barnacles can spawn on underwater structures or slow underwater mobs like turtles or whales as jockeys. They're mostly found on whales, turtles, shipwrecks, ruins, and monuments.
 - Triggerfish can be very aggressive while in love mode or next to triggerfish spawn blocks. That's why the best thing you can do in this situation is to swim away without surfacing, because their territory gets bigger the closer you are to the surface. Their bite does a lot of damage; that's why divers fear them more than sharks.
+- Tidebreakers are aquatic weapons that can summon powerful waves to attack hordes of mobs. In the Nether, they summon storms of steam since water evaporates in the nether.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
@@ -524,11 +533,13 @@ Advancements:
 - Shiver Me Timbers (Raid a pirate ship)
 - Rayne Syndicate (Enter a rig)
 - Still a Mammal (Revive a basilosaurus)
+- I Foresaw This Outcome (Get loot from a wishing well)
+- I Have Granted You Defeat (Kill a mob with the tidebreaker)
 
 Tags:
 
 - Shellfish: crab, lobster, shrimp, prawn, oyster, clam, mussel, scallop, abalone, cockle, limpet, snail, barnacle, squid, glow squid, coconut crab, mantis shrimp, crayfish, octopus, ammonite, cuttlefish, giant squid, and nudibranch, conch, cone snail
 - Extinct invertebrate: ammonite, trilobite, anomalocaris, hallucigenia, opabinia, tamisiocaris, sea scorpion, dickinsonia, wiwaxia, tully monster
-- Barnacle vehicle: turtle, whale, manatee, dugong, dolphin, oyster, clam, mussel, limpet, abalone, conch, whale shark, ammonite, dunkleosteus, mosasaur, pleisiosaur, basilosaurus, dorudon
+- Barnacle vehicle: turtle, whale, manatee, dugong, dolphin, oyster, clam, mussel, limpet, abalone, conch, whale shark, ammonite, dunkleosteus, mosasaur, pleisiosaur, basilosaurus, dorudon, desmostylian
 - Cetacean: whale, dolphin, basilosaurus, dorudon, pakicetus, sperm whale, livyathan, baiji
 - Extinct cetacean: pakicetus, basilosaurus, dorudon, livyathan, baiji
