@@ -97,6 +97,7 @@ Mobs:
 - Sea squirt
 - Sand dollar
 - Desmostylian
+- Orthoceras
 
 Food:
 - Raw crab
@@ -430,6 +431,7 @@ Items:
 - Sea squirt spawn egg
 - Sand dollar spawn egg
 - Desmostylian spawn egg
+- Orthoceras spawn egg
 
 Structures:
 - Rig
@@ -539,7 +541,7 @@ Advancements:
 Tags:
 
 - Shellfish: crab, lobster, shrimp, prawn, oyster, clam, mussel, scallop, abalone, cockle, limpet, snail, barnacle, squid, glow squid, coconut crab, mantis shrimp, crayfish, octopus, ammonite, cuttlefish, giant squid, and nudibranch, conch, cone snail
-- Extinct invertebrate: ammonite, trilobite, anomalocaris, hallucigenia, opabinia, tamisiocaris, sea scorpion, dickinsonia, wiwaxia, tully monster
+- Extinct invertebrate: ammonite, trilobite, anomalocaris, hallucigenia, opabinia, tamisiocaris, sea scorpion, dickinsonia, wiwaxia, tully monster, orthoceras
 - Barnacle vehicle: turtle, whale, manatee, dugong, dolphin, oyster, clam, mussel, limpet, abalone, conch, whale shark, ammonite, dunkleosteus, mosasaur, pleisiosaur, basilosaurus, dorudon, desmostylian
 - Cetacean: whale, dolphin, basilosaurus, dorudon, pakicetus, sperm whale, livyathan, baiji
 - Extinct cetacean: pakicetus, basilosaurus, dorudon, livyathan, baiji
