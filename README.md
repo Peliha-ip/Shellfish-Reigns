@@ -168,7 +168,6 @@ Blocks:
 - Krill block
 - Pearl block
 - Cetacean reviver
-- Extinct invertebrate reviver
 - Desmostylian reviver
 - Coconut husk block
 - Palm fronds
