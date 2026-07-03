@@ -99,6 +99,10 @@ Mobs:
 - Desmostylian
 - Orthoceras
 - Bobbit worm
+- Lionfish
+- Seabass
+- Catfish
+- Rainbow fish
 
 Food:
 - Raw crab
@@ -119,6 +123,8 @@ Food:
 - Raw cockle
 - Raw limpet
 - Raw abalone
+- Raw seabass
+- Raw rainbow fish
 - Boiled crab
 - Boiled lobster
 - Boiled shrimp
@@ -165,6 +171,8 @@ Food:
 - Pineapple juice
 - Raw conch
 - Boiled conch
+- Cooked seabass
+- Cooked rainbow fish
 
 Blocks:
 - Krill block
@@ -271,6 +279,8 @@ Blocks:
 - Triggerfish spawn
 - Shell chime
 - Shell mosaic block
+- Minnow block
+- Plankton block
 
 Items:
 - Palm boat with chest
@@ -334,6 +344,9 @@ Items:
 - Sand dollar shell
 - Sand dollar banner pattern
 - Tidebreaker
+- Bucket of lionfish
+- Bucket of seabass
+- Bucket of rainbowfish
 - Desmostylian husk
 - Desmostylian DNA
 - Dunkleosteus shears
@@ -435,6 +448,10 @@ Items:
 - Desmostylian spawn egg
 - Orthoceras spawn egg
 - Bobbit worm spawn egg
+- Lionfish spawn egg
+- Seabass spawn egg
+- Rainbow fish spawn egg
+- Catfish spawn egg
 
 Structures:
 - Rig
