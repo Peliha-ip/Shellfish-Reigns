@@ -374,7 +374,12 @@ Items:
 - Tidebreaker
 - Bucket of lionfish
 - Bucket of seabass
-- Bucket of rainbowfish
+- Bucket of rainbow fish
+- Bucket of Haikouichtys
+- Bucket of pipefish
+- Bucket of aphrodite fish
+- Bucket of Arandaspis
+- Bucket of Drepanaspis
 - Desmostylian husk
 - Desmostylian DNA
 - Dunkleosteus shears
@@ -480,6 +485,18 @@ Items:
 - Seabass spawn egg
 - Rainbow fish spawn egg
 - Catfish spawn egg
+- Giant clam spawn egg
+- Sunfish spawn egg
+- Hammerhead shark spawn egg
+- Pistol shrimp spawn egg
+- Haikouichtys spawn egg
+- Pipefish spawn egg
+- Aphrodite fish spawn egg
+- Arandaspis spawn egg
+- Belantsea spawn egg
+- Drepanaspis spawn egg
+- Acanthostega spawn egg
+- Stethacanthus spawn egg
 
 Structures:
 - Rig
@@ -590,7 +607,7 @@ Advancements:
 
 Tags:
 
-- Shellfish: crab, lobster, shrimp, prawn, oyster, clam, mussel, scallop, abalone, cockle, limpet, snail, barnacle, squid, glow squid, coconut crab, mantis shrimp, crayfish, octopus, ammonite, cuttlefish, giant squid, and nudibranch, conch, cone snail
+- Shellfish: crab, lobster, shrimp, prawn, oyster, clam, mussel, scallop, abalone, cockle, limpet, snail, barnacle, squid, glow squid, coconut crab, mantis shrimp, crayfish, octopus, ammonite, cuttlefish, giant squid,nudibranch, conch, cone snail
 - Extinct invertebrate: ammonite, trilobite, anomalocaris, hallucigenia, opabinia, tamisiocaris, sea scorpion, dickinsonia, wiwaxia, tully monster, orthoceras
 - Barnacle vehicle: turtle, whale, manatee, dugong, dolphin, oyster, clam, mussel, limpet, abalone, conch, whale shark, ammonite, dunkleosteus, mosasaur, pleisiosaur, basilosaurus, dorudon, desmostylian
 - Cetacean: whale, dolphin, basilosaurus, dorudon, pakicetus, sperm whale, livyathan, baiji
