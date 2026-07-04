@@ -103,6 +103,18 @@ Mobs:
 - Seabass
 - Catfish
 - Rainbow fish
+- Giant clam
+- Sunfish
+- Hammerhead shark
+- Pistol shrimp
+- Haikouichtys
+- Pipefish
+- Aphrodite fish
+- Arandaspis
+- Belantsea
+- Drepanaspis
+- Acanthostega
+- Stethacanthus
 
 Food:
 - Raw crab
@@ -173,6 +185,16 @@ Food:
 - Boiled conch
 - Cooked seabass
 - Cooked rainbow fish
+- Raw Drepanaspis
+- Cooked Drepanaspis
+- Raw Belantsea
+- Cooked Belantsea
+- Raw Aphrodite fish
+- Cooked Aphrodite fish
+- Raw Arandaspis
+- Cooked Arandaspis
+- Raw Haikouichtys
+- Cooked Haikouichtys
 
 Blocks:
 - Krill block
@@ -279,8 +301,14 @@ Blocks:
 - Triggerfish spawn
 - Shell chime
 - Shell mosaic block
-- Minnow block
+- Minnow colony
 - Plankton block
+- Stethacanthus egg
+- Acanthostega egg
+- Drepanaspis egg
+- Belantsea egg
+- Arandaspis egg
+- Haikouichtys egg
 
 Items:
 - Palm boat with chest
@@ -522,7 +550,7 @@ Features:
 - Triggerfish can be very aggressive while in love mode or next to triggerfish spawn blocks. That's why the best thing you can do in this situation is to swim away without surfacing, because their territory gets bigger the closer you are to the surface. Their bite does a lot of damage; that's why divers fear them more than sharks.
 - Tidebreakers are aquatic weapons that can summon powerful waves to attack hordes of mobs. In the Nether, they summon storms of steam since water evaporates in the Nether.
 - Bobbit worms can be found buried in beaches and can occasionally bite anything nearby. They do have a chance to drop the Lure 3 enchanted book, though, because bobbit worms are among the most effective baits.
-- Dunkleosteus shears are a type of shears obtainable from the Dunkleosteus mob upon death. These shears act just like normal shears, but with a twist. On one hand, it has more durability than normal shears and can be used to obtain items that normal shears can't, like grass blocks. On the other one, these shears can damage mobs if used on a shearable mob like the sheep or destroy delicate blocks like corals.
+- Dunkleosteus shears are a type of shears obtainable from the Dunkleosteus mob upon death. These shears act just like normal shears, but with a twist. On one hand, it has more durability than normal shears and can be used to obtain items that normal shears can't, like grass blocks. On the other hand, these shears can damage mobs if used on a shearable mob like the sheep or destroy delicate blocks like corals.
 
 Advancements:
 - Brace for the Mace (Collect the crustacean staff)
