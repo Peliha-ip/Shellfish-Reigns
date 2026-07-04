@@ -115,6 +115,9 @@ Mobs:
 - Drepanaspis
 - Acanthostega
 - Stethacanthus
+- Grouper
+- Nurse shark
+- Lemon shark
 
 Food:
 - Raw crab
@@ -195,6 +198,8 @@ Food:
 - Cooked Arandaspis
 - Raw Haikouichtys
 - Cooked Haikouichtys
+- Raw grouper
+- Cooked grouper
 
 Blocks:
 - Krill block
@@ -497,6 +502,9 @@ Items:
 - Drepanaspis spawn egg
 - Acanthostega spawn egg
 - Stethacanthus spawn egg
+- Grouper spawn egg
+- Nurse shark spawn egg
+- Lemon shark spawn egg
 
 Structures:
 - Rig
