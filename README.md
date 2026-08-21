@@ -118,7 +118,6 @@ Mobs:
 - Grouper
 - Nurse shark
 - Lemon shark
-- Grouper
 
 Food:
 - Raw crab
@@ -506,7 +505,6 @@ Items:
 - Grouper spawn egg
 - Nurse shark spawn egg
 - Lemon shark spawn egg
-- Grouper spawn egg
 
 Structures:
 - Rig
